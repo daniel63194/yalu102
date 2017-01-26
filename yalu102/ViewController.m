@@ -6,6 +6,8 @@
 //  Copyright © 2017 kimjongcracks. All rights reserved.
 //
 
+// MARCO è un finocchio :)
+
 #import "offsets.h"
 #import "ViewController.h"
 #import <mach-o/loader.h>
