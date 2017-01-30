@@ -61,9 +61,12 @@ Do not install things that are untested.
 
 | Version | Download | SHA1 |
 |---------|----------|------|
-| Beta 3  | [Link](https://yalu.qwertyoruiop.com/yalu102_beta3.ipa) | b2e0bdd31566f876d67cba036b5d29aef7ff257d  |
-| Beta 2  | [Link](https://yalu.qwertyoruiop.com/yalu102_beta.ipa) | 4fddad7cca8aa0c0a6579c1d63d00917f15efc86  |
-| Beta 1  | [Link](https://yalu.qwertyoruiop.com/yalu102_alpha.ipa) | 2fe14f1c1e1a0d26203bbb123f6747a978dd2b4f  |
+| Beta 6  | [Link](https://yalu.qwertyoruiop.com/yalu102_beta6.ipa) | 0130EBE60C97E2013A4B849B7D9BC321D749F304  |
+| Beta 5  | [Link](https://yalu.qwertyoruiop.com/yalu102_beta5.ipa) | F8EB6CD37054A9D25B818E3BDDD13BFEDBF72DF1  |
+| Beta 4  | [Link](https://yalu.qwertyoruiop.com/yalu102_beta4.ipa) | F8270E59D7D7267613FFA63217B91FEA425EEC36  |
+| Beta 3  | [Link](https://yalu.qwertyoruiop.com/yalu102_beta3.ipa) | B2E0BDD31566F876D67CBA036B5D29AEF7FF257D  |
+| Beta 2  | [Link](https://yalu.qwertyoruiop.com/yalu102_beta.ipa) | 4FDDAD7CCA8AA0C0A6579C1D63D00917F15EFC86  |
+| Beta 1  | [Link](https://yalu.qwertyoruiop.com/yalu102_alpha.ipa) | 2FE14F1C1E1A0D26203BBB123F6747A978DD2B4F  |
 
 ## Contributing
 
